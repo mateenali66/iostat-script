@@ -1,2 +1,2 @@
 # iostat-script
-Script to check if IO stats read/write kb/s
+Script to check the IO stats read/write kb/s using iostat tool
